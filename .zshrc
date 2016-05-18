@@ -14,6 +14,11 @@ fi
 
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
+bindkey    "^[[3~"          delete-char
+bindkey    "^[3;5~"         delete-char
+bindkey '\e[H' beginning-of-line
+bindkey '\e[F' end-of-line 
+
 
 ##############
 # Completion
@@ -62,3 +67,4 @@ export EDITOR=mg
 
 [ -f ${HOME}/.travis/travis.sh ] && source ${HOME}/.travis/travis.sh
 export MC_SKIN=${HOME}/.mc/lib/mc-solarized-skin/solarized.ini
+

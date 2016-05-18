@@ -73,11 +73,10 @@ set wildmode=list:longest
 
 set noexrc
 set title
-set clipboard+=unnamed
 set encoding=utf-8
 set visualbell
 
-iletype on
+filetype on
 filetype plugin on
 filetype indent on
  
