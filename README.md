@@ -22,7 +22,6 @@
 * devuan
 * OpenBSD
 * Alpine Linux
-* jupp
 * vis
 * ToyBox/base
 * ranger
