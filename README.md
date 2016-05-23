@@ -25,6 +25,7 @@
 * jupp
 * vis
 * ToyBox/base
+* ranger
 * ksh
 * rc
 * mc
