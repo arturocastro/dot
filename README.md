@@ -36,6 +36,7 @@
   * newlib
   * wily
   * tmux
+  * zsh
 * bug.n
 * X-Mouse Controls
 * joe
