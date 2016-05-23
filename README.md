@@ -26,7 +26,7 @@
 * vis
 * ToyBox/base
 * ranger
-* ksh
+* mksh
 * rc
 * mc
 * lldb
