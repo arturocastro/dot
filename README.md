@@ -28,6 +28,8 @@
 * ksh
 * rc
 * mc
+* lldb
+* tcc
 
 **win32 version:**
 * Cygwin/X
