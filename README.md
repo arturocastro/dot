@@ -39,7 +39,6 @@
   * zsh
 * bug.n
 * X-Mouse Controls
-* joe
 * Notepad++
 * MultiCommander
 
