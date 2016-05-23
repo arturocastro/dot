@@ -23,6 +23,7 @@
 * OpenBSD
 * Alpine Linux
 * vis
+* Lime Text
 * ToyBox/base
 * ranger
 * mksh
