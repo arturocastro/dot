@@ -24,7 +24,7 @@
 * Alpine Linux
 * jupp
 * vis
-* ToyBox
+* ToyBox/base
 * ksh
 * rc
 * mc
