@@ -22,6 +22,7 @@
 * devuan
 * OpenBSD
 * Alpine Linux
+* surf
 * vis
 * Lime Text
 * ToyBox/base
