@@ -16,6 +16,7 @@
 * clang
 * dash
 * fish
+* ranger
 
 **Stuff I would like to try/use:**
 * Slackware
@@ -26,7 +27,6 @@
 * vis
 * Lime Text
 * ToyBox/base
-* ranger
 * mksh
 * rc
 * mc
@@ -37,7 +37,6 @@
 * Cygwin/X
   * newlib
   * wily
-  * tmux
   * zsh
 * bug.n
 * X-Mouse Controls
