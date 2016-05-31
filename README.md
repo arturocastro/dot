@@ -2,7 +2,6 @@
 
 **Stuff I use:**
 * plan9port
-* BusyBox
 * debian
 * dwm
 * st
@@ -27,7 +26,7 @@
 * surf
 * vis
 * Lime Text
-* ToyBox/base
+* BusyBox/ToyBox/base
 * mksh
 * rc
 * mc
