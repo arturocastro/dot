@@ -1,7 +1,6 @@
 # dotfiles
 
 **Stuff I use:**
-* musl
 * plan9port
 * BusyBox
 * debian
@@ -17,8 +16,10 @@
 * dash
 * fish
 * ranger
+* thunderbird
 
 **Stuff I would like to try/use:**
+* musl
 * Slackware
 * devuan
 * OpenBSD
@@ -32,6 +33,7 @@
 * mc
 * lldb
 * tcc
+* mutt
 
 **win32 version:**
 * Cygwin/X
