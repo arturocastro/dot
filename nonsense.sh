@@ -35,6 +35,7 @@ mesa-utils
 mesa-utils-extra
 mesa-common-dev
 mutt
+mksh
 dosfstools
 e2fsprogs
 git
@@ -52,6 +53,7 @@ ltrace
 lttng-modules-dkms
 lttng-tools
 lttngtop
+#libxft2
 mc
 pulseaudio
 pulseaudio-module-bluetooth
@@ -86,7 +88,20 @@ zathura
 zathura-pdf-poppler
 zathura-ps"
 
+#apt-get install 
+
 apt-get build-dep linux-image-$(uname -r)
+
+purges="mtpaint
+evince
+xpad
+sylpheed
+ace-of-penguins
+"
+
+#golang haxe rust libreoffice
+
+#apt-get autoremove --purge 
 
 apt-get update
 apt-get upgrade
