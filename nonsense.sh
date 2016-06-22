@@ -108,6 +108,7 @@ apt-get upgrade
 
 pip3 install voltron
 gem install starscope
+gem install rhc
 
 apt-get install ubuntu-restricted-extras
 
