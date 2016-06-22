@@ -106,4 +106,12 @@ ace-of-penguins
 apt-get update
 apt-get upgrade
 
+pip3 install voltron
+gem install starscope
+
 apt-get install ubuntu-restricted-extras
+
+#hosts other config realtime fstab x server suckless plan9
+#musl 
+
+#remove universe
