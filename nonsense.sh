@@ -8,6 +8,7 @@ build-essential
 bleachbit
 clang
 cmake
+#daikon
 fonts-inconsolata
 fish
 gdb
