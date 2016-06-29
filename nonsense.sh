@@ -40,6 +40,7 @@ mksh
 dosfstools
 e2fsprogs
 git
+#flux
 gzip
 gimp
 ghostscript
