@@ -2,51 +2,50 @@
 
 **Stuff I use:**
 * plan9port
-* debian
+* ubuntu
 * dwm
 * st
 * dmenu
+* tmux
 * dvtm
-* abduco
+* joe
 * mg
 * vi{,m}
 * acme
 * clang
+* mksh
 * dash
-* fish
 * ranger
+* mc
 * thunderbird
+* qutebrowser
+* firefox
+* xpra
 
 **Stuff I would like to try/use:**
 * musl
-* Slackware
+* slackware
 * devuan
-* OpenBSD
+* {Open,Net,Free}BSD
 * Alpine Linux
 * surf
 * vis
-* Lime Text
 * BusyBox/ToyBox/base
-* mksh
 * rc
 * mc
 * lldb
-* tcc
+* scc
 * mutt
+* irssi
 
 **win32 version:**
 * Cygwin/X
-  * newlib
-  * wily
-  * zsh
-* bug.n
+* GoW
 * X-Mouse Controls
-* Notepad++
-* MultiCommander
 
 **Stuff I'd like to get rid off (grumble)**
 * gdb
-* Chrome
 * OneNote
 * glibc
 * systemd
+* Skype
