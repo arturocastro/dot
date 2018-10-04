@@ -3,13 +3,11 @@
 **Stuff I use:**
 * plan9port
 * ubuntu
+* {Open,Net,Free}BSD
 * dwm
 * st
 * dmenu
 * tmux
-* dvtm
-* joe
-* mg
 * vi{,m}
 * acme
 * clang
@@ -17,22 +15,14 @@
 * dash
 * ranger
 * mc
-* thunderbird
-* qutebrowser
 * firefox
 * xpra
 
 **Stuff I would like to try/use:**
-* musl
-* slackware
-* devuan
-* {Open,Net,Free}BSD
 * Alpine Linux
 * surf
 * vis
-* BusyBox/ToyBox/base
 * rc
-* mc
 * lldb
 * scc
 * mutt
